@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá, atualmente estou cursando Análise e Desenvolvimento de Sistema na faculdade Estácio. Procuro aprender sobre desenvolvimento web front-end por outros meios, como cursos, livros, youtube e artigos.
 
-<!--
-**ramon-diass/ramon-diass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias que tenho conhecimento:
+•	HTML5
+•	CSS3
+•	JavaScript
+•	GitHub
+•	Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contato:
+📞 (79) 98803-8159
+📧 ramondias2605@gmail.com
+LinkedIn: https://www.linkedin.com/in/ramon-araujo-7090b6196/
